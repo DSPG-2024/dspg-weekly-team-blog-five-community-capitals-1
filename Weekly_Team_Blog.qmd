@@ -39,3 +39,17 @@ We collected data for ACS measures from the 5-year Report survey for the years 2
 ::: {style="text-align: center;"}
 ![Time Series Examples](imgs/time-series.png)
 :::
+
+## Our next steps
+Our end goal is to have a Tableau dashboard that has the measure exploration, bivariate analysis, and ACS time series plots. We will have tabs that can be used to go between different measures, bivariate plots, and time series plots. We also have worked on event data that we hope to convert to time series plots and include in the dashboard.
+
+::: {style="text-align: center;"}
+![](imgs/Measure_dashboard.png)
+:::
+This is an example of what the measure exploration tab might look like. In this dashboard you can choose cities, population, and measure that you want to explore. You can type a city name inside the highlight city filter and it will show you where that city falls on the boxplot and bar chart.
+
+
+::: {style="text-align: center;"}
+![](imgs/bivariate_dashboard.png)
+:::
+This is an example of what the bivariate analysis tab might look like. In this dashboard you can select the two measure that you want to look at and whether you want to see the log transformation. You can choose if you want to see the log transformation for the x and/or y axis.
