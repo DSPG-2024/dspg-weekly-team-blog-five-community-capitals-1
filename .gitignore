@@ -48,3 +48,8 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 .Rbuildignore
+
+# Ignore html and Weekly_Team_Blog_files
+Weekly_Team_Blog.html
+Weekly_Team_Blog_files/
+.DS_Store
