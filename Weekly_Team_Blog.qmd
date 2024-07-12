@@ -1,9 +1,41 @@
 ---
-title: "- Week Two"
-author: ["Housing and AI", "Community Capitals", "Iowa Zoning Guide"]
-date: "6/7/2024"
-categories: ["Week Two"]
+title: "Community Capitals Week Five"
+author: ["Community Capitals"]
+date: "7/12/2024"
+categories: ["Week Five"]
 output:
   html_document:
     output_dir: "docs"
+lightbox: true
 ---
+
+# Community Capital Documentation
+With a view to providing helpful and clear data about capitals and supporting future research in community developments, we developed a clear documentation for the measures.
+
+These are the two final datasets we aggregated:
+
+::: {style="text-align: center;"}
+![City Level Finalized Data](imgs/city-level.png)
+
+![County Level Finalized Data](imgs/county-level.png)
+:::
+
+## Documentation Book
+We are aware that you can only make good analysis when you understand the data.
+
+With that in mind,we created a brief documentation book to help our clients fully understand the data.
+
+::: {style="text-align: center;"}
+![Documentation Book Preface](imgs/book-preface.png)
+
+![Employment Documentation](imgs/employment-docs.png)
+:::
+
+# ACS Time Series Data Collection
+Next, we decided to explore how measures have changed throughout the time.
+
+We collected data for ACS measures from the 5-year Report survey for the years 2012, 2017 and 2022 to avoid overlapping periods.
+
+::: {style="text-align: center;"}
+![Time Series Examples](imgs/time-series.png)
+:::
