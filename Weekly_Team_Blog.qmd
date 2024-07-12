@@ -7,3 +7,74 @@ output:
   html_document:
     output_dir: "docs"
 ---
+
+# Current Objectives
+
+## Community Capitals Visualization
+
+Our priority feature is to have tab on our dashboard dedicated to visualizing different capitals for both City and County level. The layout of this tab should include multiple filter tabs such as City/County level, Capital type, and measurements. After the filters, it will display various different graphs like Maps, Boxplot, Bar plots, etc.
+
+::: {style="text-align: center;"}
+**Density Plots for City**: Places that have higher measure value.
+:::
+
+::: {style="text-align: center;"}
+![](imgs/DensityPlot.png)
+:::
+
+::: {style="text-align: center;"}
+**County Measure**: County level measure
+:::
+
+::: {style="text-align: center;"}
+![](imgs/CountyMeas.png)
+:::
+
+::: {style="text-align: center;"}
+**Population based**
+:::
+
+::: {style="text-align: center;"}
+![](imgs/Map.png)
+:::
+
+## Measure Correlation
+
+Our next feature will include a dedicated tab for analyzing correlations between various measures from the same or different capitals. This information could be valuable because, for instance, if your community has a high crime rate, understanding which other measures to invest in to potentially increase it can guide better decision-making.
+
+::: {style="text-align: center;"}
+![](imgs/image.png)
+:::
+
+## ACS Time Series Visualization
+
+Our final core feature includes a time series visualization of various ACS measures collected from 2012-2022, is to provide a comprehensive view of how these measures have evolved over time. This allows for identifying trends, patterns, and changes for better decision-making.
+
+::: {style="text-align: center;"}
+![](imgs/acs.png)
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
